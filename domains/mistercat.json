@@ -1,0 +1,11 @@
+{
+    "description": "MisterCat own website for help with AIs.",
+    "repo": "https://github.com/Irondark2456/SiteAI",
+    "owner": {
+      "username": "MisterCat",
+      "email": "mini.lucario9@gmail.com"
+    },
+    "record": {
+      "CNAME": "/irondark2456.github.io/SiteAI/"
+    }
+  }
